@@ -1,0 +1,48 @@
+{
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+  },
+  "education":[
+    {
+      "degree":"S.S.C",
+      "school":"Montessori high school",
+      "data":["2013","95%"]
+    },
+    {
+        "degree":"Intermediate",
+        "school":"Sri chaitanya",
+        "data":["2013-15","82%"]
+    },
+    {
+      "degree":"B-Tech(C.S.E)",
+      "school":"G.Pullaiah College Of Engineering and Technology",
+      "data":["2015-19","70%"]
+    }
+  ],
+  "skills":[
+    {
+      "name":"Languages",
+      "info":["C","C#","JAVA","PYTHON","R","C++","PHP"]
+    },
+    {
+      "name":"operating system",
+      "info":["win-10","fedora","redHat","ubuntu"]
+    },
+    {
+      "name":"Data Bases",
+      "info":["My Sql","mongoDB","oracle","PDO"]
+    },
+    {
+      "name":"Web Technologies",
+      "info":["html","javascript","CSS"]
+    },
+    {
+      "name":"FrameWorks",
+      "info":[".Net","Bootstrap","CodeIgniter"]
+    },
+    {
+      "name":"Libraries",
+      "info":["Jquery"]
+    }
+  ]
+}
